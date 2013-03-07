@@ -1,0 +1,1655 @@
+2013-02-28 19:44:31,016- INFO(FolderListener.java:55)-Start processing fileto_flash
+2013-02-28 19:44:31,055- INFO(FolderListener.java:55)-Start processing fileto_flash
+2013-02-28 19:44:31,056- INFO(FolderListener.java:55)-Start processing fileto_flash2
+2013-02-28 19:44:31,056- INFO(FolderListener.java:55)-Start processing fileto_flash2
+2013-02-28 19:44:31,078- INFO(DB.java:16)-Create data base connection
+2013-02-28 19:44:31,078- INFO(DB.java:16)-Create data base connection
+2013-02-28 19:44:31,078- INFO(DB.java:16)-Create data base connection
+2013-02-28 19:44:31,078- INFO(DB.java:16)-Create data base connection
+2013-02-28 19:44:32,927- INFO(ScrapperMain.java:28)-test connection
+2013-02-28 19:44:35,723- INFO(ScrapperMain.java:28)-test connection
+2013-02-28 19:44:35,736- INFO(ScrapperMain.java:28)-test connection
+2013-02-28 19:44:35,827- INFO(ScrapperMain.java:28)-test connection
+2013-02-28 19:45:13,567- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:14,683- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:15,204- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:15,276- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:16,878- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:17,975- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:18,010- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:18,124- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:19,855- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:19,910- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:20,076- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:20,457- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:20,609- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:20,739- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:21,341- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:21,814- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:22,029- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:22,431- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:22,940- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:23,110- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:23,192- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:24,187- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:24,284- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:24,354- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:24,439- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:24,676- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:24,771- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:25,064- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:25,141- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:26,232- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:26,250- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:26,400- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:26,748- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:26,798- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:26,982- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:27,067- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:27,153- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:27,183- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:27,453- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:27,507- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:28,915- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:28,918- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:31,087- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:31,322- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:31,747- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:31,831- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:32,256- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:33,074- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:33,506- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:33,570- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:34,344- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:35,620- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:35,728- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:36,528- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:36,881- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:37,154- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:37,386- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:38,062- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:40,533- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:45:41,331- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:08,481- INFO(DB.java:16)-Create data base connection
+2013-02-28 19:49:18,000- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:19,317- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:19,341- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:19,454- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:19,705- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:20,746- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:21,023- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:21,243- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:21,651- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:21,956- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:22,817- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:23,651- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:26,915- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:27,570- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:28,783- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:29,585- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:30,653- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:30,855- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:31,592- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:36,263- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:36,392- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:36,501- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:36,645- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:37,247- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:37,601- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:38,378- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:40,785- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:42,900- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:42,944- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:43,560- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:43,669- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:43,983- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:44,785- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:45,140- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:45,321- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:46,732- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:46,876- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:47,085- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:47,291- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:47,992- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:49,142- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:49,940- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:50,093- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:52,310- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:52,407- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:52,414- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:52,441- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:52,455- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:55,285- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:55,425- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:55,869- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:56,402- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:49:57,619- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:00,048- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:00,113- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:00,250- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:00,572- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:00,574- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:00,994- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:01,301- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:02,631- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:03,635- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:04,102- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:04,145- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:05,530- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:07,683- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:07,857- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:08,665- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:08,961- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:09,090- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:09,725- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:10,438- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:10,999- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:11,043- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:12,017- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:12,071- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:12,613- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:13,458- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:13,499- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:13,595- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:13,888- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:14,745- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:16,162- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:16,261- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:16,613- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:16,994- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:17,419- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:17,481- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:17,617- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:17,702- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:19,050- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:21,771- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:21,971- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:22,011- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:22,107- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:22,175- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:22,332- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:22,719- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:23,899- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:25,295- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:25,449- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:25,521- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:26,062- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:26,241- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:26,512- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:26,517- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:26,522- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:26,533- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:28,186- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:28,912- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:29,046- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:29,138- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:29,240- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:29,443- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:30,033- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:30,342- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:30,376- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:32,831- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:33,022- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:33,593- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:34,743- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:34,975- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:36,254- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:36,299- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:36,757- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:37,131- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:38,032- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:38,892- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:39,114- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:39,122- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:39,650- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:40,765- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:41,583- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:41,937- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:43,834- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:44,316- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:44,430- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:45,013- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:45,126- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:45,338- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:45,525- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:47,671- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:47,851- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:48,785- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:49,903- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:49,930- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:51,142- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:51,445- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:51,884- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:51,958- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:52,425- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:53,131- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:54,121- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:54,378- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:54,738- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:55,007- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:55,679- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:56,369- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:56,386- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:56,436- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:56,939- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:56,949- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:57,081- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:57,268- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:57,895- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:57,916- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:58,498- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:58,773- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:59,127- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:59,255- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:50:59,507- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:00,332- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:01,568- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:01,793- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:02,292- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:03,443- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:03,793- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:03,881- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:04,367- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:05,309- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:05,657- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:05,877- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:05,896- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:07,165- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:07,874- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:08,492- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:08,529- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:10,145- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:10,276- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:11,214- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:11,501- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:13,530- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:15,451- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:15,548- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:15,981- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:16,805- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:18,304- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:19,884- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:20,815- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:22,650- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:22,827- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:22,964- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:25,782- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:26,454- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:26,647- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:26,661- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:27,068- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:27,336- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:28,600- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:28,614- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:28,956- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:29,685- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:29,867- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:30,070- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:31,264- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:31,414- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:31,714- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:32,202- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:32,375- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:32,810- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:32,824- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:32,842- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:33,079- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:33,276- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:33,314- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:33,353- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:34,562- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:35,281- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:35,368- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:35,413- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:35,746- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:35,996- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:36,105- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:36,761- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:36,923- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:37,002- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:37,118- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:37,275- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:37,768- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:37,916- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:37,949- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:38,468- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:39,321- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:39,856- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:41,753- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:41,883- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:42,198- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:43,802- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:45,210- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:46,278- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:47,244- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:47,368- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:48,420- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:48,521- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:49,045- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:50,579- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:50,617- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:50,681- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:51,821- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:51,909- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:52,434- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:52,827- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:53,390- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:53,998- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:54,910- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:56,061- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:56,853- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:58,317- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:58,585- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:59,231- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:51:59,292- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:00,375- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:00,463- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:00,652- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:02,203- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:02,286- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:02,865- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:03,327- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:03,502- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:03,698- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:04,331- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:05,053- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:05,065- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:06,431- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:07,352- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:08,109- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:08,275- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:09,125- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:09,371- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:09,472- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:09,532- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:10,539- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:11,067- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:11,784- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:12,038- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:13,125- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:13,459- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:13,600- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:14,704- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:15,281- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:17,176- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:17,438- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:18,044- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:18,461- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:18,659- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:20,883- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:21,739- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:21,744- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:22,644- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:22,825- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:23,722- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:23,810- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:23,971- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:24,222- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:24,722- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:24,731- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:26,381- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:26,727- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:28,665- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:29,963- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:30,476- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:30,755- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:33,291- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:33,386- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:33,792- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:34,009- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:34,166- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:34,293- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:36,009- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:36,068- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:36,432- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:36,824- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:37,107- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:37,413- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:37,652- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:39,064- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:39,809- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:40,119- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:40,859- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:41,729- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:44,061- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:44,131- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:44,186- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:46,804- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:47,238- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:47,324- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:47,391- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:48,386- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:49,429- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:50,088- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:50,471- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:50,536- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:53,536- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:53,688- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:54,096- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:54,357- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:54,496- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:55,190- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:56,059- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:56,744- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:56,861- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:58,591- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:52:59,100- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:00,136- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:02,515- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:02,741- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:02,956- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:03,770- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:03,801- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:03,891- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:04,744- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:04,943- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:05,011- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:05,507- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:05,986- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:06,929- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:07,206- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:07,253- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:08,277- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:08,600- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:09,559- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:10,048- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:10,303- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:10,570- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:10,751- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:11,046- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:11,500- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:11,637- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:12,879- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:13,501- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:15,646- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:15,932- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:16,079- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:16,191- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:16,450- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:17,357- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:18,287- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:18,707- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:19,225- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:21,157- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:21,772- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:21,925- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:23,616- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:23,993- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:24,347- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:25,017- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:25,612- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:30,450- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:32,071- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:32,185- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:33,401- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:34,929- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:34,979- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:35,340- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:35,466- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:35,911-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:53:36,434- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:37,766- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:38,048- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:38,428- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:38,699- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:38,887- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:38,956- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:39,549- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:39,710- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:39,859- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:40,217- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:40,277- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:40,369- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:40,688- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:40,837- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:41,358- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:41,630-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:53:41,889- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:42,079- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:42,118- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:42,188- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:42,228- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:42,571- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:42,683- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:43,028- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:43,154- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:43,672- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:44,194- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:44,322- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:45,208- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:45,580- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:45,676- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:45,771- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:45,820- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:46,215- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:46,269- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:46,434- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:47,151- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:47,236- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:47,746- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:48,235- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:48,396- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:48,460- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:49,204- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:49,253- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:49,321- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:49,713- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:50,729- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:51,305- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:51,349- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:51,476- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:51,948- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:53,506- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:53,602- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:53,644- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:53,812- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:53,876- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:53,948- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:54,085- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:54,174- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:54,443- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:54,879- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:55,092- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:55,904- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:57,018- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:57,083- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:57,438- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:57,922- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:57,935- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:58,204- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:58,208- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:58,212- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:59,100- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:59,580- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:53:59,608-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:54:00,413- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:00,631- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:01,274- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:02,433- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:02,841- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:02,864- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:03,537- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:03,666- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:04,854- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:05,540-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:54:06,847- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:07,350- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:07,554- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:07,989- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:08,607- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:08,619- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:08,880- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:09,035- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:09,254- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:09,827- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:10,223- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:10,659- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:10,975- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:11,221- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:11,362- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:11,926- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:11,983- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:12,177- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:12,505- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:14,542- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:14,796- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:15,348- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:15,392- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:15,574- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:16,237- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:16,256- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:16,419- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:16,751- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:17,644- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:17,677- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:17,886- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:18,068- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:18,553- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:18,902- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:18,908- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:19,086- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:19,515-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:54:20,179- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:20,320- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:20,456- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:20,736-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:54:20,806- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:21,061- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:21,800- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:22,235- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:22,614- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:23,364- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:23,863- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:24,110- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:24,111- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:24,186- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:25,271- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:25,753- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:26,490- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:27,706- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:27,959- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:28,161- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:28,236-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:54:28,261- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:28,424- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:28,427- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:28,984- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:29,161- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:29,354- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:30,279- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:30,695- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:30,927- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:31,602- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:31,608- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:31,922- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:32,148- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:32,227- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:33,102- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:33,521- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:33,815- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:33,895- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:34,526- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:34,592- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:34,823- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:35,058- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:35,536- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:36,244- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:37,591- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:37,597- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:37,859- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:37,988- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:38,208- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:38,269-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:54:38,458- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:38,600- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:39,019-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:54:39,401- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:39,588- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:40,058- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:40,556- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:41,157- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:41,437- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:42,209- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:42,649- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:43,177- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:43,914- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:44,758- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:45,089- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:45,176- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:45,343- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:46,415- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:46,541- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:46,630- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:47,501- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:47,514- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:48,223-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:54:48,639- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:48,696- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:49,447- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:49,897- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:50,557- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:50,770- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:51,493- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:51,918- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:52,918- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:53,058- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:53,778- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:53,823- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:53,947- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:54,295- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:54,554- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:55,603- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:55,667- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:55,888- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:57,295- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:57,840- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:57,954- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:58,827- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:59,471- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:54:59,733- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:00,135- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:00,150- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:00,249- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:01,857- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:03,926- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:05,605- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:05,694- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:06,656- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:06,830- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:07,106-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/57/0C/Attends-Night-Preserver-Underpads---23&quot;-x-36&quot;-193385-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:55:07,106- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:07,190- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:07,438-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/FE/5F/Dri-Sorb-Moderate-Absorbency-Underpads---17&quot;-x-24&quot;-559669-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:55:07,991- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:08,233- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:08,277- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:08,300- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:08,720- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:09,336- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:09,339- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:10,608- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:10,713- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:11,474- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:11,664- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:12,605- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:15,812- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:16,912- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:17,432- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:18,472- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:18,959- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:19,279- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:21,853- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:24,604- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:24,825- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:25,831- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:26,957- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:27,771- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:28,530- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:28,594- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:28,772- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:28,865- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:29,026- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:29,647- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:30,062- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:30,106- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:30,174- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:30,224- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:31,685- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:32,401- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:32,509- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:32,814- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:33,026- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:33,598- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:33,654- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:34,462- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:34,471- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:34,832- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:35,454- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:36,099- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:36,705- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:37,212- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:37,902- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:38,535- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:38,574- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:39,572- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:41,759- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:42,077- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:42,356- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:42,427- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:42,600- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:42,878- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:43,029- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:43,063- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:43,291- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:43,365- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:43,773- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:43,950- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:44,530- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:44,854- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:44,997- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:45,653- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:46,080- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:47,165- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:47,337- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:47,338- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:47,897- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:48,748- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:48,832- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:49,666- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:49,757- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:50,438- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:50,672- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:50,946- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:51,128- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:51,298- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:52,222- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:53,084- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:54,113- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:55,127- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:55,432- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:55,728- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:56,137- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:56,170- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:56,453- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:56,486- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:56,542- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:56,759- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:56,845- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:57,028- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:57,075- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:58,088- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:58,889- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:55:58,898- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:01,266- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:01,305- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:01,526- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:01,646- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:01,821- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:02,246- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:02,402- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:03,869- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:03,939- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:04,354- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:04,658- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:05,111- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:05,720-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:56:06,186- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:06,311- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:06,713- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:07,837- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:08,910- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:09,613- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:09,683- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:09,894- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:10,214- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:11,160- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:11,257- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:11,558- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:11,800- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:11,984- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:12,507- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:12,813- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:12,864- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:13,704- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:13,914- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:13,921- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:14,553- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:14,693- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:17,456- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:17,513- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:19,114- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:19,382- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:20,156- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:20,375- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:21,218- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:21,912- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:22,329- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:22,488- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:22,585- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:22,818- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:23,095- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:23,225- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:23,313- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:23,359- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:23,766- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:23,935- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:24,080- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:24,156-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:56:24,232- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:24,635- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:24,713- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:25,347- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:26,143- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:26,999- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:27,134- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:27,718- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:28,675- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:28,947- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:29,043- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:29,467- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:31,089- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:32,056- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:32,154- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:32,389- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:33,972- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:34,414- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:35,081- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:35,889- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:37,122- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:37,122- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:37,134- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:37,580- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:37,779- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:40,707- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:40,769- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:41,986- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:43,085- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:43,218- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:43,586- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:43,646- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:44,310-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:56:45,058- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:45,161- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:45,609- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:47,387- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:47,548- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:47,794- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:48,020- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:48,274- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:48,352- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:48,686- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:49,129- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:49,963- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:50,021- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:50,417- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:51,433- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:51,522- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:52,092- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:53,086- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:53,955- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:54,657- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:55,904- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:56,118- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:56,347- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:56,524- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:56,832- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:56,917- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:57,222- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:57,659- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:58,228- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:58,290- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:58,639- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:56:59,678- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:00,098- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:00,111- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:00,207- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:00,570- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:00,592- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:01,586- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:02,169- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:02,458- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:02,742- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:03,385- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:03,408- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:03,410- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:03,696- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:03,827- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:04,586- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:04,647- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:04,801-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:57:06,296- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:06,579- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:07,416- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:07,618- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:07,975- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:08,471- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:08,490- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:10,186- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:10,558- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:10,635- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:10,975- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:11,967- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:12,360- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:13,437- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:13,504- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:14,945- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:16,253- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:17,058- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:17,407- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:18,244- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:18,697- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:18,891- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:19,320- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:20,104- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:20,941- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:21,283- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:22,848- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:24,061- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:24,470- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:24,782- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:24,855- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:25,302- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:27,021- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:28,156- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:28,980- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:30,245-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:57:31,016- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:31,162- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:31,573- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:31,763- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:32,308- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:32,410- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:32,506- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:33,324- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:33,383- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:33,577- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:34,742- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:34,968- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:37,016- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:38,004-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:57:38,646- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:39,056- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:39,125- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:39,849- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:40,037- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:40,371- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:40,855- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:41,118- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:41,478- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:41,910- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:43,684- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:43,795- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:46,401- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:46,486- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:46,656- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:47,690- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:47,815-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:57:48,490- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:48,541- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:50,119- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:50,785- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:52,175- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:52,426- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:52,556- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:53,455- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:53,837- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:54,031- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:54,072- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:55,317- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:55,822- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:56,855- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:57,164- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:57,451- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:58,812- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:58,978- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:57:59,760- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:00,267- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:00,831- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:01,049- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:01,054- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:01,578- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:01,598- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:01,849- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:02,692- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:03,326- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:03,651- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:03,881- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:05,120- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:05,184- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:06,396- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:08,022- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:08,036- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:08,044- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:09,742- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:10,019- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:10,222- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:10,618- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:11,027- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:11,086- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:11,307- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:11,547- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:12,010- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:12,151- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:12,532- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:12,602- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:12,841- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:13,198- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:13,592- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:14,256- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:14,280- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:14,289- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:14,491- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:14,963- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:15,053- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:15,278- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:15,332- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:15,666- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:16,437- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:16,445- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:16,475- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:16,892- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:17,466- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:17,861- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:17,897- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:17,931- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:18,105- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:18,200- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:18,597- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:19,267- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:19,306- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:19,672- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:19,977- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:19,986- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:21,087- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:21,346- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:21,789- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:22,074- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:22,133- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:22,739- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:23,525- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:23,976- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:24,352- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:24,585- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:24,659- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:24,896- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:25,137- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:25,141- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:25,435- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:25,493- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:25,783- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:25,806- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:26,086- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:26,752- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:27,760- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:27,818- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:27,864- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:28,369-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/D3/E7/Rommates-Emesis-Basin---10&quot;-559887-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:58:28,410- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:28,497- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:29,007- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:29,725- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:29,774- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:30,172- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:30,455- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:31,235- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:31,254- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:31,962-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:58:32,153- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:32,506- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:32,973- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:33,007- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:33,056- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:33,257- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:33,590-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:58:33,751- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:34,810- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:35,193- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:35,423- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:35,971- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:36,588- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:36,907- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:37,125- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:37,353- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:39,248- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:39,332- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:39,424- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:39,636- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:39,707- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:41,244- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:42,938- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:43,466- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:43,561- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:43,890- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:44,490- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:45,271-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:58:45,548- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:45,548- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:45,857- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:46,432- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:46,845- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:47,004- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:47,471- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:47,703- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:48,029- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:49,375- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:50,753- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:51,923- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:53,353- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:54,566- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:55,687- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:56,640- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:57,082- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:57,205- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:57,218- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:57,702- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:57,709- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:58,079- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:58,429- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:58:58,715- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:00,210- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:00,843- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:01,022- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:01,942- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:02,198- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:02,336- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:03,400- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:03,403- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:03,523- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:04,093- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:04,273- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:04,421- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:04,817- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:05,418- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:05,725- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:06,335- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:06,632- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:07,174- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:07,520- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:07,803- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:08,259- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:08,555- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:08,587- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:09,861- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:10,599- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:12,186- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:12,487- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:12,876- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:12,920- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:14,569- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:14,599- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:14,626- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:14,628- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:14,644- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:14,669- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:14,856- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:14,926- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:15,112- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:15,231- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:15,911- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:17,136- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:17,232- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:17,266-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:59:17,387- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:17,603- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:17,733- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:17,918- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:17,965- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:18,439- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:19,277- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:19,469- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:19,655- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:19,758- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:20,200- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:20,520- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:20,618- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:20,699- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:21,348- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:22,238- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:22,695- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:22,827- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:25,190- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:25,678- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:25,731- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:26,411- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:26,472- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:26,644- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:26,896- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:27,343- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:27,358- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:27,372- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:27,683- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:27,691- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:27,917- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:28,312- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:28,713- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:28,790- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:29,311- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:29,487- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:29,500- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:29,535-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:59:29,756- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:29,855- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:29,970- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:30,154- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:30,293- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:30,379- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:30,457- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:30,591- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:30,812- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:30,969- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:31,348- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:31,464- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:31,516- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:31,938-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:59:32,179- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:32,269- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:32,396- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:32,775-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:59:32,895- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:33,433- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:34,146- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:34,241- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:34,302- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:34,664- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:35,298- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:35,731- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:36,522- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:37,117- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:37,290- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:37,605- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:37,899- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:38,152- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:38,497- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:39,120- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:39,361- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:39,679-ERROR(ScrapedInfoDAO.java:119)-http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+java.io.FileNotFoundException: http://images.allegrocentral.com/2B/D7/Prevail-Premium-Adult-Washcloths,-12&quot;-x-8&quot;-560213-MEDIUM_IMAGE.jpg
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.insert(ScrapedInfoDAO.java:113)
+	at maxim.kabanov.scrapper.DAO.ScrapedInfoDAO.parseAndInsert(ScrapedInfoDAO.java:74)
+	at maxim.kabanov.scrapper.task.Task.run(Task.java:36)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask$Sync.innerRun(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-28 19:59:39,750- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:40,261- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:40,277- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:41,712- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:43,075- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:43,808- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:44,677- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:44,868- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:44,951- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:45,008- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:45,644- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:45,933- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:46,719- INFO(ScrapedInfoDAO.java:93)-insert scraped info
+2013-02-28 19:59:47,204- INFO(ScrapedInfoDAO.java:93)-insert scraped info

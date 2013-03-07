@@ -1,0 +1,636 @@
+#content h1 {
+font-size: 1.8em;
+color: #333;
+font-weight: bold;
+padding-left: 12px;
+}
+
+#content a.pointer {
+cursor:hand;
+cursor:pointer;
+}
+
+#content p {
+padding-left: 12px;
+}
+
+#content .uom {
+color: black;
+font-weight: bold;
+font-size: 1.4em;
+}
+
+#content #prodimagediv {
+float: left;
+height: auto;
+padding-left: 10px;
+text-align: left;
+}
+
+#content #prodimagediv img {
+margin-bottom: 10px;
+}
+
+#content #prodimagediv a.largeimage {
+padding: 2px 20px;
+background: white url(http://static.allegromedical.com/images/icons/product/magnifier.gif) center left no-repeat;
+text-align: left;
+}
+
+.larger-image-inner {
+width:238px; 
+height:16px;
+align:center; 
+text-align:center; 
+padding:2px 0px 0px 0px; 
+margin:auto;
+}
+
+.larger-image-outer {
+height:20px; 
+width:240px; 
+align:center; 
+text-align:center;
+}
+
+#content {
+}
+
+#content dd label {
+font-weight: bold;
+}
+
+#content p.desc-type {
+clear: both;
+}
+
+#content .info {
+<!--[if !(IE 6)]>
+margin-left: 260px;
+<![endif]--> 
+
+<!--[if lte IE 6]>
+float:right;
+<![endif]--> 
+}
+
+#content dl.buy {
+clear: both;
+margin-left: 8px;
+}
+
+#content dl.price, dl.priceStyle {
+text-align:left;
+margin:0;
+}
+
+#content dl.price dd, dl.priceStyle dd {
+display:inline;
+}
+
+#content dd, #content dt {
+padding: 0;
+margin: 0;
+font-size: 1.2em;
+}
+
+#content dd {
+padding: .2em 0;
+}
+
+#content dt.price, #content dt.priceStyle {
+display: inline;
+font-weight: bold;
+padding: 0 0.5em;
+}
+
+#content dd.price sup {
+font-size: 12px;
+}
+
+#content dd.price, #content dd.priceStyle {
+color: #003399;
+font-size: 2.4em;
+font-weight: bold;
+padding: 0;
+margin: 0;
+}
+
+#content dd.retail-price {
+text-decoration:line-through;
+}
+
+#content dd.you-save {
+color:red;
+}
+
+#content dl#optionsDropDownBox {
+margin-bottom:0px;
+}
+
+#content dd.buy {
+margin-top:5px;
+}
+
+#content dd.buy label {
+padding-left: 2em;
+}
+
+#content dl.info dd.buy {
+padding: 0.5em 0 1em 0;
+vertical-align:center;
+}
+
+#content dd.allegroid {
+padding:0;
+}
+
+#content dd .section_title {
+font-weight: bold;
+margin:0 0 5px 0;
+}
+
+#content dd .review_blurb {
+padding:0 0 0 25px;
+background: url(http://static.allegromedical.com/images/bg/start_quote.png) no-repeat;
+}
+
+#content dd .reviewer_info {
+font-size: .9em;
+font-style:italic;
+padding-left:25px;
+}
+
+#content dd.backorder {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/backorder.gif) center left no-repeat;
+}
+
+#content dd.instock {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/instock.gif) center left no-repeat;
+}
+
+#content dd.nofreeship {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/nofreeship.gif) center left no-repeat;
+}
+
+#content dd.noreturn {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/noreturn.gif) center left no-repeat;
+}
+
+#content dd.tellafriend {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/tellafriend.gif) center left no-repeat;
+}
+
+#content dd.giftcardlink {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/expect-a-gift-sm.gif) center left no-repeat;
+}
+
+#content dd.deliciouslink {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/delicious.gif) center left no-repeat;
+}
+
+
+#content dd.printlink {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/printlink.gif) center left no-repeat;
+}
+
+#content dd.setupautoreorder {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/autoreorder_icon.gif) center left no-repeat;
+}
+
+#content dd.expectagift {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/expect-a-gift-sm.gif) center left no-repeat;
+}
+
+#content dd.qanda {
+padding-left: 18px;
+background: white url(http://static.allegromedical.com/images/badge/product/question_icon.jpg) center left no-repeat;
+}
+
+
+#content dd.autoreorderdetails {
+padding-left: 18px;
+background: white center left no-repeat;
+}
+
+#content dd.updatecartsubmitlink .submitLink {
+   color: #00f;
+   background-color: transparent;
+   text-decoration: underline;
+   border: none;
+   cursor: pointer;
+   cursor: hand;
+   font-size: 10px;
+}
+
+#content p.desc-type {
+font-size:1.6em;
+font-weight:bold;
+color:#333;
+padding:0 0 0 20px;
+margin:12px 0 0 12px;
+background:white url(http://static.allegromedical.com/images/badge/product/type.gif) center left no-repeat;
+}
+
+#content h2 {
+font-weight: normal;
+padding: 0 0 4px 32px;
+margin: -2px 0 12px 0;
+color: #333;
+border-bottom: 1px solid #ccc;
+}
+
+#content div.description, div.otherDescription {
+padding-left: 12px;
+font-size: 1.5em;
+line-height: 1.5;
+}
+
+#content div.description li, div.otherDescription li {
+padding: .2em 0;
+}
+
+.hreview {
+font-size: 12px;
+margin: 10px;
+padding-top: 10px;
+/*border-width: 1px;
+border-style: solid none none none;*/
+}
+
+.hreview .headline {
+font-weight: bold;
+margin-left: 5px;
+}
+
+.hreview .comment {
+background: transparent url(/images/bg/start_quote.png) no-repeat scroll top left;
+font-family: 'Times New Roman',Times,serif;
+padding: 0 0 0 25px;
+min-height: 25px;
+}
+
+.hreview .tag {
+clear: left;
+float: left;
+font-weight: bold;
+padding-right: 20px;
+text-align: right;
+width: 130px;
+}
+
+.hreview .tag_values {
+margin-left: 145px;
+}
+
+.hreview .reviewer {
+font-style: italic;
+margin-left: 40px;
+}
+
+.hreview .helpful {
+font-size:0.9em;
+font-style:italic;
+margin: 10px 0;
+}
+
+#review_toggle_div {
+text-align:center;
+}
+
+#review_toggle_div span {
+text-decoration:underline;
+}
+
+.extendedOptionsDropDown {
+position: absolute;
+/* position element with this style in the top right corner of the parent element */
+top: 19em;
+right: 2em;
+}
+
+.betterTogetherFirstSkuId {}
+
+.betterTogetherPrice {
+font-size:1.2em;color:red;
+}
+
+#totalBetterTogetherPrice {
+font-size: 1.2em;
+}
+
+.betterTogetherPriceTotal{
+font-size:1.1em;
+font-weight: bold;
+color:#003399;
+}
+
+.btAndImg {
+float:left;
+padding:5px;
+width:35px;
+margin-top:30px;
+}
+
+.btProductImage {
+float:left;padding:0 5px 5px 5px;width:100px;
+}
+.btProductImage img { padding-top:5px; }
+
+#productPageTitle {
+width: 605px;
+padding: 5px 15px 0 10px;
+float:left;
+margin-top: 4px;
+border-left: 1px solid #c6c6c6;
+border-top: 1px solid #c6c6c6;
+border-bottom: 1px solid #c6c6c6;
+/*background-image: url(http://static.allegromedical.com/images/gradients/menubar-small.gif);*/
+height:18px;
+font-size: 1.2em;
+}
+
+#parentCategoryProducts {
+background:#AAA;
+padding:1px;
+margin:0 0 0 10px;
+height:125px;
+}
+
+.parentCategoryProductsPanel {
+float:left;
+width:100px;
+padding-left:5px;
+}
+
+.centerContent {
+float: left;
+width: 540px;
+}
+
+#avgCustomerRatingDiv {
+background-color:#ffffff;
+padding:5px 10px 5px 0;
+margin:0 10px;
+width:500px;
+}
+
+#avgCustomerRatingDiv .avgRating {
+float:left;
+padding:5px 30px 0 5px;
+margin:0;
+border-right:3px solid #FFF;
+}
+
+#betterTogetherFeature p.desc-type { margin-top: 0; }
+#betterTogetherFeature h2 { margin-left: 1.5em }
+
+#rightsidebar {
+position:relative;
+top:12px;
+border-left:1px solid #AAA;
+}
+
+#rightsidebar.with-multi-image {
+top:-8px;
+}
+
+#rightsidebar.with-large-dropdown {
+top:12px;
+}
+
+#rightsidebar.with-large-dropdown-and-multi-image {
+top:-61px;
+}
+
+#rightsidebar.with-no-dropdown-and-multi-image {
+top: -46px;
+}
+
+#rightsidebar.with-no-dropdown {
+top:12px;
+}
+
+#rightsidebar-square-promo {
+position:relative;
+top:-72px;
+}
+
+#rightsidebar.with-multi-image-square-promo {
+top:-125px;
+}
+
+#rightsidebar.with-large-dropdown-square-promo {
+top:-75px;
+}
+
+#rightsidebar.with-large-dropdown-and-multi-image-square-promo {
+top:-145px;
+}
+
+#rightsidebar.with-no-dropdown-and-multi-image-square-promo {
+top: -132px;
+}
+
+#rightsidebar.with-no-dropdown-square-promo {
+top:-75px;
+}
+
+html .skusAtProductPageBottomOverride {
+height: expression( this.scrollHeight > 199 ? "200px" : "auto" ); /* sets max-height for IE */
+max-height: 200px; /* sets max-height value for all standards-compliant browsers */
+}
+
+#skuAtProductPageBottom { padding-left: }
+.restrictVerticalDivHeight table { border-collapse: collapse; }
+
+.product-large-body {
+text-align: center; 
+overflow: auto;
+}
+
+.product-large-outer-div {
+align:center; 
+margin-left:auto; 
+margin-right:auto; 
+width:510px; 
+}
+
+.product-large-header {
+width:508px; 
+display:table;
+text-align:right; 
+padding-bottom:5px; 
+font-size: 12px; 
+color: #000066; 
+border-bottom: 1px solid #999;
+border-top: 1px solid #999;
+border-left: 1px solid #999; 
+border-right: 1px solid #999; 
+}
+
+.product-large-logo {
+float:left; 
+padding:2px;
+}
+
+#product-large-logo-img {
+border:0px;
+top: 2em;
+}
+
+.product-large-image-div {
+float:right; 
+padding:2px;
+}
+
+#product-large-image-text {
+float:right; 
+padding-top:8px; 
+font-size: 13px; 
+font-weight:bold; 
+color: #000; 
+font-family:'Lucida Grande',Verdana,Lucida,Arial,Helvetica,sans-serif;
+}
+
+#product-large-image-text:hover {
+color:#CC0000;
+}
+
+.product-large-title {
+padding:0px; 
+border-left: 1px solid #999; 
+border-right: 1px solid #999; 
+font-size: 15px; 
+color: #000; 
+width: 508px;
+font-weight: bold; 
+text-align:center;
+}
+
+
+.product-large-slider-text {
+padding:2px; 
+font-size: 12px; 
+color: #333; 
+font-family:'Lucida Grande',Verdana,Lucida,Arial,Helvetica,sans-serif;
+}
+
+.product-large-slider-container {
+padding:2px; 
+margin: auto; 
+width:235px; 
+border:1px solid #efefef;
+}
+
+.product-large-main-image {
+align:center; 
+width:504px; 
+height:504px; 
+padding: 2px; 
+}
+
+.product-large-slider-div {
+text-align:center; 
+width:506px; 
+border-bottom: 1px solid #999; 
+padding:1px;
+}
+
+.product-large-slider-main {
+margin-left:auto; 
+margin-right:auto; 
+width:508px; 
+border-left: 1px solid #999; 
+border-right: 1px solid #999; 
+border-bottom: 1px solid #999;
+}
+
+.product-large-main-image-img {
+height:500px;
+width:500px;
+}
+
+#product-large-image-img {
+border:0px;
+}
+
+#product-page-featured-review {
+margin-top:0;
+margin-bottom:0;
+width:255px;
+float:right;
+}
+
+.productPromotionDiv {
+color:#002b9d;
+font-size:12px;
+font-weight:bold;
+padding-top:4px;
+}
+
+.productPromotionDiv span {
+color:#FF8800;
+font-size:12px;
+font-weight:bold;
+}
+
+.productPromotionDiv a {
+color:#555;
+font-size:10px;
+font-weight:normal;
+}
+
+.bannerSelectorProduct {
+position: absolute;
+right:2px;
+top:72px;
+}
+
+.skuIdSelectionDropDown option{
+background:none;
+background-color: white;
+}
+
+/*option.mostPurchasedSkuDD, .mostPurchasedSkuDD, .mostPurchasedSkuDD-explained {
+background-color: #FFCB8F;
+padding-left: 12px;
+background-image: url('/images/bg/checkmark.gif');
+background-repeat:no-repeat;
+}*/
+
+.mostPurchasedSkuDD-explained {
+background-color: #FFF;
+width: 160px;
+float: right;
+height: 14px;
+display: none;
+color: #AAA;
+}
+
+td.qa_table {
+padding: 5px 0 5px 0;
+}
+
+#fblike-container {
+    height: 22px;
+    width: 215px;
+    padding: 1px;
+}
+
+.prod-allegro-id {
+	color:#555; 
+	font-size:12px; 
+	margin-left:10px;
+	font-weight: bold;
+}

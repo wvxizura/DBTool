@@ -1,0 +1,22 @@
+2013-02-13 17:40:14,001- INFO(DB.java:22)-ConfigMananger loaded
+2013-02-13 17:41:46,302- INFO DB (DB.java:22)-ConfigMananger loaded
+2013-02-13 17:43:45,092- INFO main (DB.java:22)-ConfigMananger loaded
+2013-02-14 14:52:28,633- INFO main (FolderListener.java:21)-Watch for directoryC:\Users\mkabanov\workspace\DBTool\spoke
+2013-02-14 14:53:19,168- INFO main (FolderListener.java:55)-Start processing filetest1.txt
+2013-02-14 14:53:19,171- INFO Thread-1 (DB.java:16)-Create data base connection
+2013-02-14 14:53:25,921- INFO main (FolderListener.java:55)-Start processing filetest6.txt
+2013-02-14 14:53:25,922- INFO Thread-2 (DB.java:16)-Create data base connection
+2013-02-14 14:53:33,541- INFO main (FolderListener.java:55)-Start processing filetest4.txt
+2013-02-14 14:53:33,542- INFO Thread-3 (DB.java:16)-Create data base connection
+2013-02-14 14:54:11,163-ERROR Thread-3 (ScrapperMain.java:67)-no protocol: 
+java.net.MalformedURLException: no protocol: 
+	at java.net.URL.<init>(Unknown Source)
+	at java.net.URL.<init>(Unknown Source)
+	at java.net.URL.<init>(Unknown Source)
+	at maxim.kabanov.scrapper.parser.Parser.<init>(Parser.java:16)
+	at ScrapperMain.parseData(ScrapperMain.java:63)
+	at ScrapperMain.run(ScrapperMain.java:91)
+	at java.lang.Thread.run(Unknown Source)
+2013-02-14 19:08:46,519- INFO main (FolderListener.java:21)-Watch for directoryC:\Users\mkabanov\workspace\DBTool\spoke
+2013-02-14 19:09:22,051- INFO main (FolderListener.java:55)-Start processing filetest1.txt
+2013-02-14 19:09:22,054- INFO Thread-1 (DB.java:16)-Create data base connection

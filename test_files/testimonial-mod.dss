@@ -1,0 +1,259 @@
+/*TESTIMONIALS*/
+.testimony-txt {
+	color:#3a3a3a;
+}
+
+#tstmnl label {	
+	font-weight:bold;	
+}	
+
+#tstmnl .field, #tstmnl .area {
+	width:145px;
+	border:1px solid #d5d5d5;
+	padding:3px;
+	background:#fff url(http://static.allegromedical.com/images/form/freesamp_input.gif) repeat-x;
+}
+
+#tstmnl .row-wrapper {
+	width:100%;
+	padding-top:10px;
+	border:1px solid white;
+}
+
+#tstmnl .tstwraplabel {	
+	width:190px;
+	border:1px solid white;
+	float:left;
+	text-align:right;
+	font-size:12px;
+	vertical-align:center;
+	padding-top:5px;
+}
+
+#tstmnl .tstwrapfield {	
+	background:#f2f2f2 url(http://static.allegromedical.com/images/form/freesamp_input.gif) repeat-x scroll bottom;
+	border:1px solid #DDDDDD;
+	float:right;
+	margin:0;
+	padding:8px 0 8px 8px;
+	width:330px;
+	margin-right:10px;
+}
+
+
+/* jQuery.Rating Plugin CSS - http://www.fyneworks.com/jquery/star-rating/ */
+div.rating-cancel, div.star-rating {
+ 	float:left;
+ 	width:17px;
+ 	height:15px;
+ 	text-indent:-999em;
+ 	cursor:pointer;
+ 	display:block;
+ 	background:transparent;
+ 	overflow:hidden
+ }
+ 
+div.rating-cancel,div.rating-cancel a{
+	background:url(http://static.allegromedical.com/images/support/delete.gif) no-repeat 0 -16px;
+}
+
+div.star-rating,div.star-rating a{
+	background:url(http://static.allegromedical.com/images/support/fivestar.gif) no-repeat 0 0px;
+}
+
+div.rating-cancel a,div.star-rating a{
+	display:block;
+	width:16px;
+	height:100%;
+	background-position:0 0px;
+	border:0;
+}
+div.star-rating-on a{
+	background-position:0 -16px!important;
+}
+
+div.star-rating-hover a{
+	background-position:0 -32px;
+}
+/* Read Only CSS */
+div.star-rating-readonly a {
+	cursor:default !important;
+}
+/* Partial Star CSS */
+div.star-rating { 
+	background:transparent!important;
+	overflow:hidden!important;
+}
+
+/* CSS FOR SMALL STARS */
+
+div.star-rating-small {
+ 	float:left;
+ 	width:14px;
+ 	height:15px;
+ 	text-indent:-999em;
+ 	cursor:pointer;
+ 	display:block;
+ 	background:transparent;
+ 	overflow:hidden
+ }
+ 
+div.star-rating-small,div.star-rating-small a{
+	background:url(http://static.allegromedical.com/images/support/fivestarsmall.gif) no-repeat 0 0px;
+}
+
+div.star-rating-small a{
+	display:block;
+	width:16px;
+	height:82%;
+	background-position:0 0px;
+	border:0;
+}
+div.star-rating-small-on a{
+	background-position:0 -12px!important;
+}
+
+div.star-rating-small-hover a{
+	background-position:0 -32px;
+}
+/* Read Only CSS */
+div.star-rating-small-readonly a {
+	cursor:default !important;
+}
+/* Partial Star CSS */
+div.star-rating-small { 
+	background:transparent!important;
+	overflow:hidden!important;
+}
+
+/* END jQuery.Rating Plugin CSS */
+
+
+/* MODERATION PAGE */
+
+.tst-div-bg {
+	float: left;
+	width: 200px;
+	overflow: hidden;
+	/*height: 80px;*/
+	height: auto;
+	font-size: 12px;
+	padding: 2px;
+}
+
+.tst-div-bg2 {
+	float: left;
+	width: 270px;
+	height: 140px;
+	font-size: 12px;
+	padding: 2px;
+}
+
+.tst-div-bg1 {
+	float: left;
+	width: 235px;
+	height: 140px;
+	font-size: 12px;
+	padding: 2px;
+}
+
+.tst-div-bg3 {
+	float: left;
+	width: 378px;
+	height: 140px;
+	font-size: 12px;
+	padding: 2px;
+}
+
+.tst-div-md {
+	float: left;
+	width: 100px;
+	overflow: hidden;
+	height: 140px;
+	font-size: 12px;
+	padding: 2px;
+}
+
+.tst-div-md2 {
+	float: left;
+	width: 150px;
+	overflow: hidden;
+	height: 140px;
+	font-size: 12px;
+	padding: 2px;
+}
+
+
+.tst-div-md input{
+	border:1px solid #999;
+	width: 100px;
+	margin: 1px;
+}
+
+.tst-div-bg2 textarea{
+	border:1px solid #999;
+	margin: 1px;
+}
+
+.tst-separator {
+	display: table;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+}
+
+.tst-separator-header {
+	display: table;
+	border-left: 1px solid #666;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	background-color: #ccc;
+}
+
+.tst-page-div {
+	font-family: "Lucida Grande", Verdana, Lucida, Arial, Helvetica, sans-serif;
+	width: 900px;
+	padding: 10px;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.tst-page-div .sub-left {
+	float: left;
+}
+
+.tst-page-div .sub-right {
+	float: right;
+}
+
+.tst-page-div .sub-center {
+	z-index: -1;
+	position: absolute;
+	float: left;
+	text-align: center;
+	width: 900px
+}
+
+.tst-container-div {
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	font-family: "Lucida Grande", Verdana, Lucida, Arial, Helvetica, sans-serif;
+}
+
+
+/* Testimonial View */
+
+.tst-view-pagination {
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 2px;
+padding-bottom: 2px;
+}
+.tst-view-pagination a {
+text-decoration:none; 
+color: #777;
+}
+
+
